@@ -43,8 +43,6 @@ while not is_hit:
 
 screen.exitonclick()
 
-##### known issues
 
-# when pressing left and down or right and down at the same time, it will cause the snake to move in the other direction, causing a game over scene.
 
 
